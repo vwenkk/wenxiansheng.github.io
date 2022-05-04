@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: wenkk
-subtitle: '学习用'
+title: wenkk 的博客
+subtitle: 'keep simple keep stupid'
 description: ''
 keywords:
 author: wenkk
@@ -105,3 +105,8 @@ deploy:
   type: git
   repo: git@github.com:wenxiansheng/wenxiansheng.github.io.git
   branch: main
+all_minifier: false
+archive_generator:
+  per_page: 50
+  yearly: true
+  monthly: true
