@@ -103,5 +103,5 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:wenxiansheng/wenkk.github.io.git
+  repo: git@github.com:wenxiansheng/wenxiansheng.github.io.git
   branch: main
